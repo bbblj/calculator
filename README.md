@@ -1,4 +1,5 @@
-# calc
+# Vue calculator
+一个简单的、基于Vue的计算器实现
 
 ## Project setup
 ```
